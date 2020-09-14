@@ -1,5 +1,6 @@
 # iOSAnimation
 ## 《iOS动画:核心技术与案例实战》 作者：郑微
+## 原书P68、P120、P124、P175存在细节错误。
 ## 书籍使用的switf3.0,本仓库代码全部使用 OC语法，且覆盖全部案例。
 ![冲！](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1649588930,3611228928&fm=26&gp=0.jpg)
 ### 第一卷 显示层动画
